@@ -9,7 +9,7 @@
 <author>Rodo</author>
 
 <feature name = "http://api.phonegap.com/1.0/device"/>
-<preference name="phonegap-version" value="cli-5.1.1" /> <!-- all: current version of PhoneGap -->
+<preference name="phonegap-version" value="cli-6.0.0" /> <!-- all: current version of PhoneGap -->
 <preference name="android-minSdkVersion" value="10" />
 <preference name = "orientation" value = "default"/>
 <preference name = "target-device" value = "universal"/>
